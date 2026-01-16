@@ -1,0 +1,9 @@
+[package]
+name = "async_queues"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+async-task = "4.7.1"
+futures-lite= "2.6.1"
+flume = "0.12"
